@@ -65,6 +65,6 @@ def organize_schools(schools)
         organized_schools[location].push(name)
       end
     end
-    
+
     organized_schools
 end
