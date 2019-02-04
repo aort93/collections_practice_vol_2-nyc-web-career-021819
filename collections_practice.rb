@@ -42,7 +42,7 @@ def remove_non_strings(array)
 end
 
 def count_elements(array)
-  
+
 end
 
 def merge_data(arr1, arr2)
@@ -56,5 +56,3 @@ end
 def organize_schools(schools)
 
 end
-
-
