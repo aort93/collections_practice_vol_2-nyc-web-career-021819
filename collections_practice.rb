@@ -44,3 +44,17 @@ end
 def count_elements(array)
   
 end
+
+def merge_data(arr1, arr2)
+
+end
+
+def find_cool(arr)
+
+end
+
+def organize_schools(schools)
+
+end
+
+
